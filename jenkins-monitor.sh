@@ -1,1 +1,1 @@
-nativefier --internal-urls '^((?!/job/).)*$' --fast-quit --tray --single-instance --icon headshot.png $1
+nativefier --internal-urls '^((?!/job/).)*$' --fast-quit --single-instance --icon headshot.png $1

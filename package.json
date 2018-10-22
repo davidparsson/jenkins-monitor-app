@@ -1,0 +1,22 @@
+{
+  "name": "native-jenkins-monitor",
+  "version": "0.0.0",
+  "description": "Creates a standalone application for Jenkins monitors on MacOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidparsson/jenkins-monitor-app.git"
+  },
+  "author": "David Pärsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidparsson/jenkins-monitor-app/issues"
+  },
+  "homepage": "https://github.com/davidparsson/jenkins-monitor-app#readme",
+  "dependencies": {
+    "nativefier": "^7.6.8"
+  }
+}
